@@ -1,0 +1,63 @@
+QA:
+
+1. Our Sun is just one of many millions of stars in a group of stars called a:
+A. universe.
+B. black hole.
+C. galaxy.
+D. solar system. (check)
+
+2. In order from the hottest to the coolest stars, the order of the stellar 
+     spectral sequence is:
+A. MKGFABO. 
+B. ABFGKMO. 
+C. OBAFGKM. (check)
+D. OBFGAMK.
+
+3. What is the largest planet in the solar system?
+A. earth. 
+B. mars. 
+C. jupiter. (check) 
+D. mercury.
+
+4. Hubble's Law enables astronomers to estimate the distance to a galaxy if 
+     they can determine the galaxy's 
+A. velocity of recession. (check)
+B. mass. 
+C. spectral type. 
+D. temperature. 
+
+5. The age of a star cluster can be deduced from :
+A. the turn-off point of stars on its main sequence. (check)
+B. the number of stars it contains. 
+C. its radial velocity. 
+D. its location in the Milky Way galaxy. 
+
+6. Most of the helium in the Universe is believed to have been produced in 
+A. red giants. 
+B. the Big Bang. (check)
+C. supernovae. 
+D. main sequence stars.
+
+7. In about 5 billion years, the sun will become 
+A. a supernova. 
+B. a black hole. 
+C. a red giant. (check)
+D. a neutron star.  
+
+8. When neutron degeneracy fails in a high-mass star, it becomes a 
+A. white dwarf. 
+B. black hole. (check)
+C. pulsar. 
+D. neutron star. 
+
+9. The cosmic micorwave background radiation comes from:
+A. quasars. 
+B. the solar nebula. 
+C. the Big Bang. (check)
+D. radio galaxies. 
+
+10. The main sequence is primarily a sequence in stellar 
+A. size. 
+B. age. 
+C. mass. (check)
+D. composition. 

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Question Page</title>
+	<link rel="stylesheet" type="text/css" href="start-page.css">
+	<link rel="stylesheet" type="text/css" href="question-page.css">
+</head>
+<body>
+	<form class="form">
+		<p class="question">What is the largest planet in the Solar System?</p>
+
+		<div class="answer-block">
+			<input type="radio" name="choice" id="answer-1" value="0" required>
+			<label for="answer-1">A. Earth</label>
+		</div>
+
+		<div class="answer-block">
+			<input type="radio" name="choice" id="answer-2" value="1">
+			<label for="answer-2">B. Mars</label>
+		</div>
+
+		<div class="answer-block">
+			<input type="radio" name="choice" id="answer-3" value="2">
+			<label for="answer-3">C. Mercury</label>
+		</div>
+
+		<div class="answer-block">
+			<input type="radio" name="choice" id="answer-4" value="3">
+			<label for="answer-4">D. Jupiter</label>
+		</div>
+
+		<button type="submit" class="question-button">Submit</button>
+		<button type="submit" class="question-button">Next</button>
+
+		<footer class="question-status">
+			<span class="question-status-number">1/10</span>
+			<span>correct: 0</span>
+			<span>incorrect: 0</span>
+		</footer>
+	</form>
+</body>
+</html>
